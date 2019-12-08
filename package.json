@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/schymon17/DeepMiner-Test#readme",
   "dependencies": {
-    "vis-timeline": "^6.2.10"
+    "vis-timeline": "^6.2.10",
+    "vue": "^2.6.10"
   }
 }
